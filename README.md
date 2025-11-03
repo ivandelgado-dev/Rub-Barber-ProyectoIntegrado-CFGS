@@ -31,4 +31,4 @@ Documentación:
 La documentación completa del proyecto está disponible en el archivo .pdf, incluyendo diseño del sistema RBAC, flujo de datos y autenticación JWT, envío de correos electrónicos, generación automática de facturas y estructura del frontend y backend.
 
 Autor:
-Iván Delgado – Desarrollo completo del proyecto, frontend y backend.
+Iván Wilfrido Delgado Chaparro – Desarrollo completo del proyecto, frontend y backend.
