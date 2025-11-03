@@ -1,4 +1,4 @@
-# Rubí Barber 💈
+# Rubí Barber
 
 Aplicación web para la gestión de peluquerías, desarrollada como Proyecto Integrado DAM. La aplicación permite a clientes, peluqueros y administradores interactuar de forma segura mediante autenticación por roles, reserva de citas, envío de correos electrónicos y facturación automática.
 
